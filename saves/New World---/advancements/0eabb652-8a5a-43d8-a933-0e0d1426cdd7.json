@@ -1,0 +1,196 @@
+{
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mahogany": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/wooden_knife": {
+    "criteria": {
+      "has_item": "2019-04-14 08:19:23 -0300"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/wooden_glaive": {
+    "criteria": {
+      "has_item": "2019-04-14 08:19:23 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_cherry": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/wooden_battleaxe": {
+    "criteria": {
+      "has_item": "2019-04-14 08:19:23 -0300"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/wooden_cutlass": {
+    "criteria": {
+      "has_item": "2019-04-14 08:19:23 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "beaches": "2019-04-14 08:29:15 -0300",
+      "river": "2019-04-14 08:30:09 -0300"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2019-04-14 08:22:39 -0300",
+      "red_flower": "2019-04-14 08:22:39 -0300"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/wooden_shield": {
+    "criteria": {
+      "has_item": "2019-04-14 08:19:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2019-04-14 08:19:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2019-04-14 08:19:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-04-14 08:23:02 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ebony": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-04-14 08:24:45 -0300"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/wooden_hammer": {
+    "criteria": {
+      "has_item": "2019-04-14 08:19:23 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2019-04-14 08:19:23 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_pine": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_palm": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-04-14 08:24:54 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+    "criteria": {
+      "entered_water": "2019-04-14 08:30:08 -0300"
+    },
+    "done": true
+  },
+  "dungeontactics:dungeoneering/root": {
+    "criteria": {
+      "kill": "2019-04-14 08:24:54 -0300"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/wooden_cestus": {
+    "criteria": {
+      "has_item": "2019-04-14 08:19:23 -0300"
+    },
+    "done": true
+  }
+}
